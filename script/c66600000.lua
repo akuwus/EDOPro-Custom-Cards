@@ -1,4 +1,4 @@
---Medusa, the Dream Mirror Gorgon by aku (https://www.youtube.com/c/akuwus)
+-- Medusa, the Dream Mirror Gorgon by aku (https://www.youtube.com/c/akuwus)
 local card_entity, id = GetID()
 
 -- Field Spells Globals
