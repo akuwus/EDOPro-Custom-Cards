@@ -1,4 +1,4 @@
---Galaxy-Eyes Alternative Photon Dragon by aku (https://www.youtube.com/c/akuwus)
+-- Galaxy-Eyes Alternative Photon Dragon by aku (https://www.youtube.com/c/akuwus)
 local card_entity, id = GetID()
 local galaxy_eyes_photon_dragon_id = 93717133
 

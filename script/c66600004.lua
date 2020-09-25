@@ -1,4 +1,4 @@
---Starseeker by aku (https://www.youtube.com/c/akuwus)
+-- Starseeker by aku (https://www.youtube.com/c/akuwus)
 local card_entity, id = GetID()
 
 function card_entity.initial_effect(c)

@@ -1,4 +1,4 @@
---Nyx, the Dream Mirror Shadow by aku (https://www.youtube.com/c/akuwus)
+-- Nyx, the Dream Mirror Shadow by aku (https://www.youtube.com/c/akuwus)
 local card_entity, id = GetID()
 
 -- Field Spells Globals

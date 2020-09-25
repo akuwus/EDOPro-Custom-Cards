@@ -1,4 +1,4 @@
---Photon Galaxy by aku (https://www.youtube.com/c/akuwus)
+-- Photon Galaxy by aku (https://www.youtube.com/c/akuwus)
 local card_entity, id = GetID()
 
 function card_entity.initial_effect(c)
