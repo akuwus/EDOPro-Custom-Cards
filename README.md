@@ -10,3 +10,9 @@ Custom cards designed for EDOPro. These cards were created specifically for the 
     * Galaxy-Eyes Alternative Photon Dragon
     * Starseeker
     * Photon Galaxy
+* Dark Magician of Chaos
+    * Dark Magician Girl of Chaos
+    * Dream Magician of Chaos
+    * Nightmare Magician of Chaos
+    * Twilight Magician of Chaos
+    * Envoy Magician of Chaos
